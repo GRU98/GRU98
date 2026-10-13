@@ -5,9 +5,9 @@
 
 # Hi, I'm Ivan!
 
-### Backend Developer · `GRU98`
+### Backend Developer · Student
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=440&lines=Python+Backend+Development;REST+APIs+%26+Databases;Discord+Bots+%26+Game+Servers" alt="Backend development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=440&lines=Learning+Backend+Development;Python+%26+REST+APIs;Discord+Bots+%26+Game+Servers" alt="Backend development" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,sql&perline=4" height="42" alt="Python, TypeScript, JavaScript, SQL" />
+<img src="https://skillicons.dev/icons?i=python,ts,sql&perline=3" height="42" alt="Python, TypeScript, SQL" />
 
 **Backend & Databases**
 
@@ -115,7 +115,5 @@
 <a href="https://github.com/GRU98">
 <img src="https://img.shields.io/badge/GitHub-GRU98-181717?style=flat-square&logo=github" alt="GitHub profile" />
 </a>
-
-</div>
 
 </div>
